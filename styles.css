@@ -102,13 +102,14 @@ section h2:first-of-type {
   top: 0;
   left: 0;
   position: absolute;
-  background-image: url('https://i.postimg.cc/QCf8VCbR/bg-02-free-img.png');
+  background-image: url('bg-02-free-img.png');
   background-position: top right;
   background-repeat: no-repeat;
   opacity: 0.3;
 }
 #personal-info .user-avatar {
-  background: url('https://i.postimg.cc/wjyqT6sG/user-avatar.jpg') no-repeat top center;
+  background: url('user-avatar.jpeg') no-repeat top center;
+  background-size: cover;
   width: 600px;
   height: 600px;
   border-radius: 50%;
